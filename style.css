@@ -1,0 +1,91 @@
+/* Universal styling*/
+* {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+/* Element styling*/
+li {
+    display: inline;
+    padding: 20px;
+    font-size: larger;
+}
+a {
+    text-decoration: none;
+    color: white;
+}
+
+p {
+    font-weight: bold;
+    margin: 0;
+}
+
+h1 {
+    text-align: center;
+    color: #504846;
+    font-weight: bolder;
+}
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding-bottom: 20px;
+}
+h2 {
+    text-align: center;
+}
+
+footer {
+    text-align: center;
+}
+
+aside {
+    text-align: center;
+    border: 5px solid #deaf94;
+    border-radius: 20px;
+    margin-right: 700px;
+    margin-left: 700px;
+}
+
+input {
+    width: 325px;
+}
+
+figcaption {
+    text-align: center;
+    padding-bottom: 20px;
+}
+footer {
+    background-color: #504846;
+    color: white;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+/* Class Styling*/
+.contact {
+    color: #504846;
+    background-color: #e8cebf;
+    padding-top: 30px;
+    padding-bottom: 30px;
+ 
+}
+
+.text-right {
+    text-align: right;
+    background-color: #504846;
+    padding: 10px;
+    border-bottom: 15px solid #e8cebf;
+}    
+
+.send {
+    padding: 0%;
+    background-color: #504846;
+    color: white;
+    width: 110px;
+    height: 35px;
+    margin-bottom: 10px;
+}
+
+.name {
+    padding-top: 10px;
+}
